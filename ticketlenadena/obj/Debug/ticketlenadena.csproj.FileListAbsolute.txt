@@ -1,0 +1,9 @@
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\ticketlenadena.dll.config
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\ticketlenadena.dll
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\ticketlenadena.pdb
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\System.Data.SQLite.dll
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\System.Data.SQLite.xml
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\obj\Debug\ticketlenadena.dll
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\obj\Debug\ticketlenadena.pdb
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\Facebook.dll
+D:\Atyant\Personal\R&D\ticketlenadena\ticketlenadena\bin\Facebook.xml
